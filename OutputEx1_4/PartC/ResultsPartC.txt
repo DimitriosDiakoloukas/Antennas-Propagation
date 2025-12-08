@@ -1,0 +1,7 @@
+------------------- (c) Results ----------------
+Reflection coefficient vs element spacing d (0 <= d <= λ)
+
+Minimum |Γ| = 0.252 at d/λ = 0.529
+
+Regions where |Γ| < 0.3 (good matching to 50 Ω):
+  d/λ from 0.459 to 0.607

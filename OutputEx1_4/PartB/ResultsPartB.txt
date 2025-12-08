@@ -1,0 +1,12 @@
+------------------- (b) EMF Method Results ----------------
+Self and mutual impedances (Ω):
+---->  a = Z11 =   73.10 +42.50j
+---->  b = Z12 =  -22.50 +6.63j
+---->  c = Z13 =   -1.89 -12.30j
+
+Current ratio (I1/I2 = I3/I2):
+  |I1/I2| = 0.303,  angle(I1/I2) = -39.4 degrees
+
+Input impedance of driven dipole:
+  Z_in =   65.11 +54.27j  Ω
+-----------------------------------------------------------

@@ -1,0 +1,14 @@
+--- SLL=-20 dB ---
+Non-uniform:  8.621 dBi
+Uniform (1.2): 10.000 dBi
+Uniform (1.1): 10.089 dBi
+
+--- SLL=-30 dB ---
+Non-uniform:  8.322 dBi
+Uniform (1.2): 10.000 dBi
+Uniform (1.1): 10.089 dBi
+
+--- SLL=-40 dB ---
+Non-uniform:  8.393 dBi
+Uniform (1.2): 10.000 dBi
+Uniform (1.1): 10.089 dBi
